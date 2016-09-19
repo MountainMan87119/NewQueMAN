@@ -1,0 +1,239 @@
+/*
+FileINFO BEGIN
+Vancouver, B.C.
+Thursday, 15 September 2016.  9:23pm.
+FileNAME  ::  "QueueManCSS.css"
+FileINFO END
+*/
+
+
+#TitleGhost{
+	position:absolute;
+	top:77%;
+	left:23%;
+	width:50%;
+	height:11%;
+	background-color:#8ADFFB;
+	padding-top:9px;
+	text-indent:17px;
+	text-align:center;
+	padding-top:17px;
+	font-size:27px;
+	font-weight:bold;
+	font-style:italic;
+	font-variant:small-caps;
+	color:black;
+	border:3px solid navy;
+}
+#HitMeUpHattrick{
+	position:absolute;
+	top:6.4%;
+	left:3%;
+	width:20%;
+	height:5.4%;
+	font-size:19px;
+	font-weight:bold;
+	text-align:center;
+	color:black;
+	cursor:default;
+	z-index:50;
+}
+#HotnessOfTESTxExpect{
+	position:absolute;
+	top:33%;
+	left:3%;
+	width:20%;
+	height:5.4%;
+	font-size:19px;
+	font-weight:bold;
+	text-align:center;
+	color:black;
+	cursor:default;
+	z-index:50;
+}
+#HotnessResponse{
+	position:absolute;
+	top:43%;
+	left:3%;
+	width:20%;
+	height:5.4%;
+	font-size:19px;
+	font-weight:bold;
+	text-align:center;
+	color:black;
+	cursor:default;
+	z-index:50;
+}
+#WatchBelow{
+	position:absolute;
+	top:22%;
+	left:51%;
+	width:19%;
+	height:7%;
+	font-weight:bold;
+	cursor:default;
+	z-index:50;
+}
+
+
+#ControlCATS{
+	position:absolute;
+	top:4.3%;
+	left:23%;
+	width:14%;
+	height:6.4%;
+	background-color:#33EFEA;
+	border:2px solid yellow;
+	padding-top:4px;
+	text-align:center;
+	cursor:default;
+	z-index:50;
+}
+#ControlDOGZ{
+	position:absolute;
+	top:4.3%;
+	left:43%;
+	width:14%;
+	height:6.4%;
+	background-color:#33EFEA;
+	border:2px solid yellow;
+	padding-top:4px;
+	text-align:center;
+	cursor:default;
+	z-index:50;
+}
+#ControlRandom{
+	position:absolute;
+	top:4.3%;
+	left:63%;
+	width:14%;
+	height:6.4%;
+	background-color:#33EFEA;
+	border:2px solid yellow;
+	padding-top:4px;
+	text-align:center;
+	cursor:default;
+	z-index:50;
+}
+
+#ResetALLTHETHINGS{
+	position:absolute;
+	top:17%;
+	left:23%;
+	width:17%;
+	height:9%;
+	background-color:#333333;
+	border:2px solid yellow;
+	padding-top:15px;
+	font-size:14px;
+	font-weight:bold;
+	font-variant:small-caps;
+	color:black;
+	text-align:center;
+	cursor:default;
+	z-index:50;
+}
+#ResetBttn{
+	width:80%;
+	height:70%;
+	font-size:23px;
+	font-weight:bold;
+	font-variant:small-caps;
+	color:black;
+	text-align:center;
+	cursor:default;
+	z-index:50;
+}
+
+#LaunchCatsBttn{
+	width:80%;
+	height:90%;
+	font-size:15px;
+	font-weight:bold;
+	color:navy;
+	text-align:center;
+	cursor:default;
+	z-index:50;
+}
+#LaunchDogsBttn{
+	width:80%;
+	height:90%;
+	font-size:15px;
+	font-weight:bold;
+	color:navy;
+	text-align:center;
+	cursor:default;
+	z-index:50;
+}
+#PrayBttn{
+	width:80%;
+	height:90%;
+	font-size:15px;
+	font-weight:bold;
+	color:navy;
+	text-align:center;
+	cursor:default;
+	z-index:50;
+}
+
+
+#ExpectingX.OFF{}
+#ExpectingX.on{
+	position:absolute;
+	top:31%;
+	left:23%;
+	width:47%;
+	height:6%;
+	background-color:#333333;
+	border:4px solid navy;
+	padding-top:11px;
+	font-size:16px;
+	font-weight:bold;
+	text-indent:17px;
+	text-align:left;
+	color:white;
+	cursor:default;
+	z-index:50;
+
+}
+#ActualTESTxData.OFF{}
+#ActualTESTxData.on{
+	position:absolute;
+	top:41%;
+	left:23%;
+	width:47%;
+	height:6%;
+	background-color:#333333;
+	border:4px solid navy;
+	padding-top:11px;
+	font-size:16px;
+	font-weight:bold;
+	text-indent:17px;
+	text-align:left;
+	color:white;
+	cursor:default;
+	z-index:50;
+
+
+}
+#DisplayRANDOMxData.OFF{}
+#DisplayRANDOMxData.on{
+	position:absolute;
+	top:55%;
+	left:23%;
+	width:69%;
+	height:6%;
+	background-color:#333333;
+	border:4px solid navy;
+	padding-top:11px;
+	font-size:16px;
+	font-weight:bold;
+	text-indent:17px;
+	text-align:left;
+	color:white;
+	cursor:default;
+	z-index:50;
+}
+
+/* ############################################### */
+/* EOF */
