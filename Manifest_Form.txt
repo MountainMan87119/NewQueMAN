@@ -1,0 +1,11 @@
+The FORM is to be determined.
+
+Just not today, right?  LOL.  Experiment in public.  Dance like nobody is watching.  See whether or not this editor provided by GitHub... okay, it softwraps AND indents to tab.
+
+Good to know.
+
+########################################################
+
+And does not abuse a string of # signs.  Also, good.
+
+EOF
