@@ -20,7 +20,4 @@ to fake an AJAX; just go away, into a setTimeout and do some stringwork then *re
 
 but I imagine you have a php somewhere on your machine or nearby.
 
-The 12welve hours I put into that, I swear to fucking Chryst 4 hours of that was fighting my
-overly sensitive keypad, lol.
-
 
